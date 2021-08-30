@@ -1,4 +1,4 @@
-# olympics-challenge
+# olympics
 Project 1 - 
 This project includes an analysis of summer olympics data from 1976 to 2008 and GDP
 data normalized for 2010 US$.
